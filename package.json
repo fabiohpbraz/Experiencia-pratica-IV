@@ -1,0 +1,16 @@
+{
+  "name": "lacos-esperanca",
+  "version": "1.3.1",
+  "private": true,
+  "description": "Projeto acadêmico da ONG fictícia Laços de Esperança.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "analyze": "node scripts/analyze-build.mjs"
+  },
+  "devDependencies": {
+    "vite": "^7.1.9"
+  }
+}

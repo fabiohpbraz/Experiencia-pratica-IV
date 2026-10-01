@@ -1,0 +1,20 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Dependências e build
+node_modules/
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Variáveis locais
+.env
+.env.*
+!.env.example
